@@ -32,22 +32,96 @@ I am dedicated to delivering high-quality, scalable applications with seamless u
 
 ## 🌟 Featured Projects
 
-### **1. [Discover Umair Portfolio](https://discover-umair-portfolio-projects.vercel.app/)**
-A comprehensive portfolio showcasing my latest projects, including full-stack web applications, mobile apps, and cloud deployments. Built with **React.js**, **Node.js**, and hosted on **Vercel**, this project demonstrates my technical skills, creative UI/UX design, and deployment expertise.
+### **1. Smart Inventory Management System for E-Commerce**
+**Tech Stack**: React.js, Node.js, MongoDB, AWS, Stripe API, CI/CD (Jenkins, AWS CodePipeline)
 
-### **2. E-Commerce Platform**  
-A fully functional e-commerce web application built using the **MERN stack** (MongoDB, Express, React, Node.js). The app includes user authentication, payment integration using **Stripe**, a dynamic shopping cart, and real-time inventory management. The platform is hosted on **AWS EC2** with automated deployments via **Jenkins CI/CD pipeline**.
+This system helps small and medium-sized e-commerce businesses manage their inventory efficiently, ensuring they never run out of stock or overstock. The platform provides real-time stock level updates, generates automated restock alerts, and integrates with sales data to optimize inventory turnover. The payment gateway is securely integrated with **Stripe API** for a seamless transaction experience.
 
-- **Tech Stack**: React, Node.js, Express.js, MongoDB, Stripe API, AWS
-- **Features**: User authentication, order tracking, admin dashboard for inventory management, secure payment processing with Stripe.
-
-### **3. Real-Time Chat Application**  
-Developed a responsive real-time chat application using **React** and **Node.js**, with **WebSocket** integration for real-time message updates. The backend was deployed on **AWS Lambda** for scalable, serverless communication, and the frontend was hosted using **AWS Amplify**.
-
-- **Tech Stack**: React, Node.js, WebSocket, AWS Lambda, AWS Amplify
-- **Features**: Real-time messaging, user status indicators, message encryption.
+- **Features**:
+  - Real-time inventory tracking and automated low-stock alerts.
+  - Integration with Stripe for secure payments.
+  - Role-based access for admins and sales personnel.
+  - Deployed on **AWS** using **EC2** instances with automated CI/CD pipelines via **Jenkins** and **AWS CodePipeline** for continuous updates and scalability.
+  - Optimized backend for scalability with **Node.js** and **MongoDB**.
+  - Frontend dashboard for analytics and inventory forecasting using **React.js**.
 
 ---
+
+### **2. AI-Powered Job Matching Platform**
+**Tech Stack**: React.js, Node.js, PostgreSQL, AWS Lambda, AWS S3, Firebase, RESTful APIs
+
+An AI-based job-matching platform designed to connect job seekers and employers more efficiently. Using advanced algorithms, the platform analyzes resumes, matches candidates to jobs based on skills and experience, and automates the application process. The platform leverages **AWS Lambda** for scalable, serverless backend processing, while **AWS S3** stores applicant data securely.
+
+- **Features**:
+  - AI-powered resume matching engine.
+  - Real-time notifications for job alerts.
+  - Admin panel for recruiters to manage postings and view candidate analytics.
+  - Integrated **FirebaseAuth** for secure login and user management.
+  - Serverless architecture using **AWS Lambda** for processing job applications, reducing operational costs.
+  - RESTful API for smooth communication between front and backend.
+
+---
+
+### **3. Real-Time Fleet Management System**
+**Tech Stack**: React.js, Node.js, Express.js, Google Maps API, MongoDB, Firebase, Google Cloud Functions
+
+This system enables businesses to track, manage, and optimize their fleet of vehicles in real-time. The platform offers live vehicle tracking, route optimization, and predictive maintenance alerts using data analytics. **Google Maps API** integrates seamlessly for real-time location updates, and **Google Cloud Functions** ensures efficient and scalable event-based actions.
+
+- **Features**:
+  - Live vehicle tracking with **Google Maps API**.
+  - Predictive maintenance alerts based on vehicle health and usage patterns.
+  - Route optimization to reduce fuel costs and delivery times.
+  - **Firebase** for secure user authentication and real-time database updates.
+  - Scalable backend powered by **Node.js** and **MongoDB** for storing fleet and route data.
+  - Admin panel for fleet managers to analyze fleet performance and generate reports.
+
+---
+
+### **4. Healthcare Patient Portal with Telemedicine**
+**Tech Stack**: React.js, Node.js, PostgreSQL, Twilio API, AWS S3, AWS Lambda
+
+A secure patient management platform that allows healthcare providers to interact with patients remotely. Patients can book appointments, view their health records, and have virtual consultations via **Twilio’s video conferencing API**. Doctors can securely access patient data stored in **AWS S3** and use telemedicine features to provide consultations.
+
+- **Features**:
+  - Virtual consultations using **Twilio API** for video calling.
+  - Secure patient record management using **AWS S3**.
+  - Appointment scheduling and automated reminders for both patients and doctors.
+  - **PostgreSQL** for secure storage of patient health records and analytics.
+  - Serverless backend via **AWS Lambda** for scalable consultation sessions.
+  - Comprehensive dashboard for doctors to view patient history and provide consultations in a HIPAA-compliant manner.
+
+---
+
+### **5. Real-Time Collaboration Tool for Remote Teams**
+**Tech Stack**: React.js, Node.js, WebSockets, MongoDB, AWS, Firebase, Svelte.js
+
+A real-time communication and collaboration tool designed for distributed teams, enabling them to collaborate seamlessly regardless of location. The platform supports chat, file sharing, project management, and task tracking. It uses **WebSockets** for real-time communication, ensuring fast and uninterrupted conversations.
+
+- **Features**:
+  - Real-time messaging and collaboration powered by **WebSockets**.
+  - File sharing, task tracking, and project management in an intuitive dashboard built with **React.js** and **Svelte.js** for enhanced UX.
+  - User authentication with **FirebaseAuth** for secure team access.
+  - Backend services with **Node.js** and **MongoDB** for real-time data synchronization.
+  - Hosted on **AWS**, enabling scalability for remote teams of any size.
+  - Notifications and task reminders, enhancing team productivity and project delivery.
+
+---
+
+### **6. Automated Financial Dashboard for Small Businesses**
+**Tech Stack**: React.js, Node.js, Stripe API, PostgreSQL, AWS Lambda, Firebase
+
+A real-time financial dashboard that offers small business owners insights into their sales, expenses, and profits. This system integrates with payment gateways such as **Stripe** to provide detailed financial breakdowns, transaction reports, and automated tax calculations.
+
+- **Features**:
+  - Real-time financial reports including sales, expenses, and profit margins.
+  - Integration with **Stripe API** for seamless payment processing and tracking.
+  - Automated tax calculations and invoice generation.
+  - Secure user authentication with **Firebase**.
+  - Scalable backend using **AWS Lambda** and **PostgreSQL** for efficient data management.
+  - Comprehensive analytics dashboard built with **React.js**, enabling business owners to make data-driven decisions.
+
+---
+
 
 ## 💼 Professional Experience
 
