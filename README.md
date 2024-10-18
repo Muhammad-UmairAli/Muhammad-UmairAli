@@ -89,7 +89,7 @@ I’m always open to new opportunities and collaborations. Whether you have a ch
 - **Email**: [muhammadumairalee@gmail.com](mailto:muhammadumairalee@gmail.com)
 - **Portfolio**: [Discover Umair Portfolio](https://discover-umair-portfolio-projects.vercel.app/)
 - **LinkedIn**: [linkedin.com/in/umair-ale3](https://www.linkedin.com/in/umair-ale3/)
-- **GitHub**: [github.com/your-github-username](https://github.com/Muhammad-UmairAli)
+- **GitHub**: [github.com/Muhammad-UmairAli](https://github.com/Muhammad-UmairAli)
 
 ---
 
