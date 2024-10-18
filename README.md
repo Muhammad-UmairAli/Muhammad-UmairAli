@@ -21,7 +21,7 @@ I am dedicated to delivering high-quality, scalable applications with seamless u
 ### 🌐 Backend Development:
 - **Node.js & Express.js**: Proven experience in designing scalable RESTful APIs and server-side logic using **Node.js** and **Express.js**.
 - **Database Management**: Proficiency in **MongoDB**, **PostgreSQL**, **NoSQL**, and SQL databases for managing complex data interactions and ensuring data integrity.
-- **Authentication & Security**: Implementing secure user authentication and authorization flows using **JWT**, **OAuth**, and **FirebaseAuth**.
+- **Authentication & Security**: Implementing secure user authentication and authorization flows using **JWT**, **OAuth**, **AWS Cognito** and **FirebaseAuth**.
 
 ### ☁️ Cloud & DevOps:
 - **AWS & Azure**: Hands-on experience with **AWS Lambda**, **EC2**, **S3**, **RDS**, and **Azure Functions** for scalable cloud infrastructure. Extensive experience in **serverless architecture** and automated cloud deployment.
