@@ -1,7 +1,7 @@
 # 👋 Welcome to Muhammad Umair Ali's GitHub!
 
 🚀 **Senior Software Engineer | Full-Stack Developer | Cloud Architect | Mentor**  
-🌍 **JavaScript | React | Node.js | AWS | Azure | Agile Development | DevOps**
+🌍 **JavaScript | React | React Native | Angular | SvelteJS | Node.js | NestJS | AWS | Azure | Agile Development | DevOps**
 
 ---
 
